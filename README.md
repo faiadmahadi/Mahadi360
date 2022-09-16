@@ -1,3 +1,4 @@
+[![MasterHead](https://media.discordapp.net/attachments/860186724919017482/1020333560378441768/Coding_Banner_Design.png?width=1025&height=394)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Faiad Mahadi</h1>
 <h3 align="center">I'm a self-taught Python Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
