@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/@faiad_mahadi" target="blank"><img src="https://img.shields.io/twitter/follow/@faiad_mahadi?logo=twitter&style=for-the-badge" alt="@faiad_mahadi" /></a> </p>
 
-- 🔭 I’m currently working on **RoX Discord Bot**
+- 🔭 I’m currently working on **Rynex - Discord Bot**
 
-- 🌱 I’m currently learning **Python, Html And Css**
+- 🌱 I’m currently learning **Python, C**
 
 - 👯 I’m looking to collaborate on **Discord**
 
@@ -27,8 +27,8 @@
 <p align="left">
 <a href="https://dev.to/faiadmahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faiadmahadi" height="30" width="40" /></a>
 <a href="https://twitter.com/@faiad_mahadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faiad_mahadi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xmahadi-b584b6210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xmahadi-b584b6210" height="30" width="40" /></a>
-<a href="https://instagram.com/faiadmahadi_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiadmahadi_69" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faiad-mahadi-b584b6210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiad-mahadi-b584b6210" height="30" width="40" /></a>
+<a href="https://instagram.com/maradox.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maradox.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
